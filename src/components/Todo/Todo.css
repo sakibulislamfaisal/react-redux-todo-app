@@ -1,0 +1,35 @@
+.add-todo {
+  text-align: center;
+}
+.add-item {
+  text-align: center;
+}
+
+.btn-success {
+  margin: 10px;
+  border-radius: 10px;
+}
+.form-control {
+  padding: 4px;
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+.each-item {
+  display: flex;
+  justify-content: center;
+  margin-right: 10px;
+  padding: 2px;
+}
+.item {
+  font-size: 20px;
+  margin-top: 10px;
+}
+.btn-danger {
+  margin: 10px;
+}
+
+.btn-info {
+  margin-left: 490px;
+  margin-top: 20px;
+}
